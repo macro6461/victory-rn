@@ -1,5 +1,5 @@
 {
-  "name": "VictoryRNTwo",
+  "name": "victory-rn",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -12,6 +12,7 @@
   "dependencies": {
     "react": "17.0.1",
     "react-native": "0.64.2",
+    "react-native-simple-radio-button": "^2.7.4",
     "react-native-svg": "^12.1.1",
     "victory-native": "^35.3.3"
   },
